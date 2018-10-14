@@ -1,5 +1,7 @@
 # Is it a plane? Is it a bird? No, it's a drone
-DIP Project - Build a system to distinguish between drones and birds
+
+## Problem
+An accurate machine learning model built with using just advanced feature extraction techniques to localize and recognize the object of interest and comparing the results with that of convolutional neural networks.
 
 ## Proposed Algorithm
 
