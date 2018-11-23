@@ -3,6 +3,35 @@
 ## Problem
 An accurate machine learning model built with using just advanced feature extraction techniques to localize and recognize the object of interest and comparing the results with that of convolutional neural networks.
 
+
+## Dataset
+
+Manual collection of datasets, since a proper dataset for drones isn't available. We collect 100 pictures each of 10 species of birds, and 10 models of drones. Of the birds, 8 are aerial and 2 are aquatic birds. And of the drones, 8 are regular drone models sold to the public, and 2 are military drones, serviced by the US military.
+
+10 species of birds -
+    1. Owl
+    2. Pigeon
+    3. Dove
+    4. Falcon
+    5. Parrot
+    6. Eagle
+    7. Kingfisher
+    8. Goose
+    9. Duck
+    10. Swan
+
+10 models of drones -
+    1. DJI Phantom 3
+    2. DJI T600 Inspire 1
+    3. DJI Phantom 2 Vision+ V3.0
+    4. DJI Phantom 3 Advanced
+    5. DJI Phantom 2 Vision+
+    6. Parrot PF725100 BeBop
+    7. Heli-Max 1SQ
+    8. DJI Phantom Aerial
+    9. Lockheed Martin Stalker
+    10. Boeing Insitu ScanEagle
+
 ## Proposed Algorithm
 
 ### Pipeline
