@@ -1,7 +1,0 @@
-class.py:
-
-python Class_SVM.py -t /home/Pictures/test -v
-
-features.py:
-
-python Features_SVM.py -t /home/Pictures/train
